@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/huekiet/study_todo_reactjs/static/css/main.896b9280.css",
-    "main.js": "/huekiet/study_todo_reactjs/static/js/main.78b4d129.js",
+    "main.js": "/huekiet/study_todo_reactjs/static/js/main.7ddc3ba6.js",
     "static/js/787.7f2c2da0.chunk.js": "/huekiet/study_todo_reactjs/static/js/787.7f2c2da0.chunk.js",
     "static/media/logo.svg": "/huekiet/study_todo_reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/huekiet/study_todo_reactjs/index.html",
     "main.896b9280.css.map": "/huekiet/study_todo_reactjs/static/css/main.896b9280.css.map",
-    "main.78b4d129.js.map": "/huekiet/study_todo_reactjs/static/js/main.78b4d129.js.map",
+    "main.7ddc3ba6.js.map": "/huekiet/study_todo_reactjs/static/js/main.7ddc3ba6.js.map",
     "787.7f2c2da0.chunk.js.map": "/huekiet/study_todo_reactjs/static/js/787.7f2c2da0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.896b9280.css",
-    "static/js/main.78b4d129.js"
+    "static/js/main.7ddc3ba6.js"
   ]
 }
